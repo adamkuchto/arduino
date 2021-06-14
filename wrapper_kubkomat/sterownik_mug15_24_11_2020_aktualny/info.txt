@@ -1,1 +1,0 @@
-zmniejszona wartosc pwm o 10 procent(duze kubki nie wywracaj¹ sie )
